@@ -1,4 +1,4 @@
-module blake2sext
+module github.com/ajaysaini717/myalgo
 
 go 1.23.0
 
